@@ -30,6 +30,12 @@ It is designed to showcase modern **full-stack development skills** with a focus
 - **Version Control:** Git & GitHub
 
 ---
+## 📸 Screenshots
+
+![Product Listing](public/screenshots/Cart.png)
+![Checkout Page](public/screenshots/Checkout.png)
+![Payment Page](public/screenshots/payment.png)
+![Payment Successful Page](public/screenshots/Payment_Successful.png)
 
 ## ⚙️ Installation
 1. **Clone the repository**
